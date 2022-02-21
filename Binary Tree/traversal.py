@@ -6,7 +6,7 @@ class TreeNode:
         self.left = left
         self.right = right
 
-class Treversal:
+class Traversal:
 
     def inorder(self, root):
         if not root:
